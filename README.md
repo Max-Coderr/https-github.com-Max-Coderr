@@ -1,24 +1,11 @@
-# Hi, I'm Max! 🚀
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+### Hi there 👋 I'm an Aspiring Developer
 
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **WAYU**
-- ⚡ Fun fact: **I can turn coffee into clean code.**
+I'm currently focused on backend development using NestJS and DBML. 
 
-## 🛠 My Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+### My Tech Stack
+* **Language:** Python
+* **Backend:** NestJS, Databases
+* **Tools:** Blender, Git
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://herokuapp.com)
+### Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
