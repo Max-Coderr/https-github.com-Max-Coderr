@@ -1,6 +1,12 @@
-### Hi there 👋 I'm an Aspiring Developer
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 12px;" alt="Animated Profile Banner">
+</p>
 
-I'm currently focused on backend development using NestJS and DBML. 
+# Hi there 👋 I'm an Aspiring Developer
+
+I'm currently focused on backend development.
+
+---
 
 ### My Tech Stack
 * **Language:** Python
