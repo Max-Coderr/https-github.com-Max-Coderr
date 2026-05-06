@@ -1,6 +1,6 @@
 # Hi, I'm Max! 🚀
-<p align="left">
-  <img src="https://komarev.com" alt="YOUR_USERNAME" />
+<p align="center">
+  <img src="https://skillicons.dev" />
 </p>
 
 ## 👨‍💻 About Me
