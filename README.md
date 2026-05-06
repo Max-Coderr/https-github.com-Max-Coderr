@@ -1,3 +1,16 @@
+import { createAvatar } from '@dicebear/core';
+import { lorelei } from '@dicebear/collection';
+
+const avatar = createAvatar(lorelei, {
+  seed: 'YourUniqueSeed', // Change this to get a different design
+  flip: true,
+  // Add more unique properties here
+});
+
+const svg = avatar.toString();
+// You can now display this SVG or save it as a file
+
+
 ### Hi there 👋 I'm MAX
 
 I am an aspiring backend developer focused on building scalable applications and working with databases.
