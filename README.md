@@ -1,6 +1,6 @@
 # Hi, I'm Max! 🚀
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
