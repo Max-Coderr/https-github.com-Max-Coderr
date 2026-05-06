@@ -14,4 +14,4 @@ I'm currently focused on backend development.
 * **Tools:** Blender, Git
 
 ### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-Coderr&show_icons=true&theme=radical)
