@@ -1,11 +1,13 @@
-### Hi there 👋 I'm Max-Coderr
+# Hi there 👋 I'm Max-Coderr
 
 I'm currently focused on backend development.
 
 ---
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/4235529337083357308_0" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 12px;" alt="Animated Profile Banner">
+  <a href="https://github.com/Max-Coderr">
+    <img src="https://raw.githubusercontent.com/mlh/assets/master/2021/hackathon--banner.gif" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 12px;" alt="Animated Profile Banner">
+  </a>
 </p>
 
 ---
