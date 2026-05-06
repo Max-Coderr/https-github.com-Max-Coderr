@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 12px;" alt="Animated Profile Banner">
+  <img src="YOUR_ANIMATED_IMAGE_LINK_HERE" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 12px;" alt="Animated Profile Banner">
 </p>
 
 # Hi there 👋 I'm an Aspiring Developer
